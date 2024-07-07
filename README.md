@@ -111,4 +111,11 @@ TOPICS :
 - Deep Q-Learning
 - Sarsa Algorithm
   
-8. Fuzzy Logic
+8. Fuzzy Logic :
+- Fuzzy logic vs classical Boolean logic
+- Linguistic variables and fuzzy sets
+- Fuzzy rules (IF-THEN format)
+- Multiple antecedents and consequents
+- Fuzzy sets versus crisp sets
+- Universe of discourse 
+- The Mamdani fuzzy inference approach
